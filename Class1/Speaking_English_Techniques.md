@@ -27,7 +27,7 @@ Speaking skills are defined as the skills which allow us to communicate effectiv
    Instead of learning single words, focus on learning phrases. This will help you sound more natural. For example, instead of saying "How do you feel today?" a native speaker might say, "How are you doing?" or "What's up?"
 
 ## Video of the Class
-Watch the class video [here](https://www.youtube.com/live/0BWgR4w3NtM?si=MT3E-UbgdABGohZd).
+Watch the class video [here](https://youtube.com/live/0BWgR4w3NtM).
 
 ## Follow Us on WhatsApp
 Follow us on the [WhatsApp channel](https://whatsapp.com/channel/0029VajcsfN60eBifp95C63D).
