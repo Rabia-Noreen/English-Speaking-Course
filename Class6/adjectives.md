@@ -1,6 +1,3 @@
-
-
-```markdown
 # Imperative Sentences
 
 ## Making a Request
@@ -164,7 +161,9 @@ In the evening, I conduct online lectures for some of my students and dedicate t
 I start my day at 5 a.m., waking up bright and early to offer peaceful prayers. After that, I review the comprehensive lecture I'm going to deliver at the university. Following my focused revision, I have a hearty breakfast and then head to the university by auto.
 At the university, I deliver my engaging lecture and then manage various tasks on the LMS, including marking attendance, grading assignments, and working on the portal. After completing my rigorous academic duties, I return home, have a light lunch, and take a brief nap for about an hour.
 In the evening, I conduct interactive online lectures for some of my students and dedicate time to learning advanced Python and AI skills. I also conduct insightful sessions with students from Learning Junction, followed by another round of in-depth self-study to deepen my AI knowledge.
-```
+
+---
+
 # Watch the Videos
 
 ## YouTube Live
